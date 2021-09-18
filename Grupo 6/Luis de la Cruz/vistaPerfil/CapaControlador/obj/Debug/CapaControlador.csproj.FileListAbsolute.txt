@@ -1,0 +1,6 @@
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaControlador\obj\Debug\CapaControlador.pdb

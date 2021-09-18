@@ -1,0 +1,9 @@
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaModelo\bin\Debug\Dapper.dll
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaModelo\bin\Debug\Dapper.xml
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaModelo\obj\Debug\CapaModelo.csproj.CopyComplete
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaModelo\obj\Debug\CapaModelo.pdb

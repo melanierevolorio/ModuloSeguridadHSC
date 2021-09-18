@@ -1,0 +1,13 @@
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\ejecucionVistaPerfil\ejecucionVistaPerfil\bin\Debug\ejecucionVistaPerfil.exe.config
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\ejecucionVistaPerfil\ejecucionVistaPerfil\bin\Debug\ejecucionVistaPerfil.exe
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\ejecucionVistaPerfil\ejecucionVistaPerfil\bin\Debug\ejecucionVistaPerfil.pdb
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\ejecucionVistaPerfil\ejecucionVistaPerfil\bin\Debug\CapaVista.dll
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\ejecucionVistaPerfil\ejecucionVistaPerfil\bin\Debug\CapaVista.pdb
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\ejecucionVistaPerfil\ejecucionVistaPerfil\obj\Debug\ejecucionVistaPerfil.csproj.AssemblyReference.cache
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\ejecucionVistaPerfil\ejecucionVistaPerfil\obj\Debug\ejecucionVistaPerfil.Form1.resources
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\ejecucionVistaPerfil\ejecucionVistaPerfil\obj\Debug\ejecucionVistaPerfil.Properties.Resources.resources
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\ejecucionVistaPerfil\ejecucionVistaPerfil\obj\Debug\ejecucionVistaPerfil.csproj.GenerateResource.cache
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\ejecucionVistaPerfil\ejecucionVistaPerfil\obj\Debug\ejecucionVistaPerfil.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\ejecucionVistaPerfil\ejecucionVistaPerfil\obj\Debug\ejecucionVistaPerfil.csproj.CopyComplete
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\ejecucionVistaPerfil\ejecucionVistaPerfil\obj\Debug\ejecucionVistaPerfil.exe
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\ejecucionVistaPerfil\ejecucionVistaPerfil\obj\Debug\ejecucionVistaPerfil.pdb

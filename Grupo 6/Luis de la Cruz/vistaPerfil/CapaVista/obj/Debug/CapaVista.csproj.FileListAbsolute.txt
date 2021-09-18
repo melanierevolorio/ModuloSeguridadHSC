@@ -1,0 +1,9 @@
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaVista\obj\Debug\CapaVista.formPerfil.resources
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\USUARIO 1\Downloads\Universidad\segundo semestre 2021\perfil 2.0\vistaPerfil\CapaVista\obj\Debug\CapaVista.pdb
