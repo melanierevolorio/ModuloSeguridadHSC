@@ -1,0 +1,12 @@
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaModelo\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaModelo\obj\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\RM\Desktop\Nueva carpeta\Proyecto\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\RM\Desktop\Nueva carpeta\Proyecto\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\RM\Desktop\Nueva carpeta\Proyecto\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\RM\Desktop\Nueva carpeta\Proyecto\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\RM\Desktop\Nueva carpeta\Proyecto\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\RM\Desktop\Nueva carpeta\Proyecto\CapaModelo\obj\Debug\CapaModelo.pdb
