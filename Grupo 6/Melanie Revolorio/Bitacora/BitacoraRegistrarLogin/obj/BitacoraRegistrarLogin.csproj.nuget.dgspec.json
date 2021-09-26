@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Melanie\\Downloads\\BitacoraRegistrarLogin\\BitacoraRegistrarLogin\\BitacoraRegistrarLogin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Melanie\\Downloads\\BitacoraRegistrarLogin\\BitacoraRegistrarLogin\\BitacoraRegistrarLogin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Melanie\\Downloads\\BitacoraRegistrarLogin\\BitacoraRegistrarLogin\\BitacoraRegistrarLogin.csproj",
+        "projectName": "BitacoraRegistrarLogin",
+        "projectPath": "C:\\Users\\Melanie\\Downloads\\BitacoraRegistrarLogin\\BitacoraRegistrarLogin\\BitacoraRegistrarLogin.csproj",
+        "packagesPath": "C:\\Users\\Melanie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Melanie\\Downloads\\BitacoraRegistrarLogin\\BitacoraRegistrarLogin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Melanie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "System.Data.Odbc": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mOLveQbw2fDmf+g6kdO0X7hQfwCDFWLYUwvpZ1T3fsCGX7gl7eDcfgZytSFjzdVI4LlbBeX/NcabLs68W2wQmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Melanie\\Downloads\\BitacoraRegistrarLogin\\BitacoraRegistrarLogin\\BitacoraRegistrarLogin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Melanie\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\Melanie\\.nuget\\packages\\system.data.odbc\\5.0.0\\system.data.odbc.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
